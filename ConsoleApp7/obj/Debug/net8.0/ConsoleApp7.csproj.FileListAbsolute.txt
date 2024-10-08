@@ -1,0 +1,15 @@
+D:\oop\oop_2024\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+D:\oop\oop_2024\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+D:\oop\oop_2024\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+D:\oop\oop_2024\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+D:\oop\oop_2024\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.sourcelink.json
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+D:\oop\oop_2024\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll
